@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm João Pedro Monteiro</h1>
 <h3 align="center">In love with programming, I enjoy the challenges of the field and the opportunities for creating new applications and ideas.</h3>
 
-## Sobre mim 
+## About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 💼 I'm a fullstack developer with around 2 years of experience in the field. Working with various languages and concepts.
