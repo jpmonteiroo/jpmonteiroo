@@ -4,7 +4,7 @@
 ## 😀 About me:
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 💼 I'm a fullstack developer with around 2 years of experience in the field. Working with various languages and concepts.
+- 💼 I'm a fullstack developer with around 4 years of experience in the field. Working with various languages and concepts.
 - 🌱 Learning more about **AI**.
 
 ## 📱 Tech Stack:
